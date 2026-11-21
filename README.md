@@ -1,3 +1,7 @@
+[![make.fun bounty](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539)
+[![Rank](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/AkmalJ/poster-lantara/rank.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539)
+[![Reward](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/AkmalJ/poster-lantara/reward.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539)
+
 # LANTARA — The Town Inside the Lantern
 
 A travel poster for a place that does not exist: a harbour town living
